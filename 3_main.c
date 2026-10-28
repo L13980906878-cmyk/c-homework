@@ -12,9 +12,9 @@ int main()
 printf("输入；");
 scanf("%f %f %f",&a,&b,&c);
 if (a+b>=c&&b+c>=a&&a+c>=b)
-{printf("能够成三角形");}
+{printf("能够构成三角形");}
 else
-{printf("不能够成三角形");}
+{printf("不能够构成三角形");}
 
 
     return 0;
