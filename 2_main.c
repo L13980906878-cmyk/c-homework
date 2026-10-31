@@ -7,7 +7,6 @@
 int main()
 {
 float a;
-printf("请输入一个数");
 scanf("%f",&a);
 if (a>0)
 {printf("正数\n");}
