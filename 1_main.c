@@ -7,7 +7,6 @@
 int main()
 {
     float a;
-    printf("输入");
     scanf("%f",&a);
 float b;
 b = a*9.0/5+32;
